@@ -1,6 +1,6 @@
 
 
-a =  rand(3)
+a =  rand(0 .. 10)
 	puts a
 b = gets.chomp.to_i
 
